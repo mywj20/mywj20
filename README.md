@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 你好，我是robot-WT 👋
+# 你好，我是mywj20 👋
 ## 一个热爱编程的人
 
 我喜欢编程，学习，创造，分享。我的目标是成为一个优秀的机器人工程师。我的座右铭是：**永远保持好奇，永远追求进步**。
 
 - 📫 你可以通过以下方式联系我：
-  - 邮箱：1873814679@qq.ocm
+  - 邮箱：zhouxiang.se@gmail.com
 
 - 📊 统计卡片：                                                                                                                        
 
